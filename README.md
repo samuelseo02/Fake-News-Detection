@@ -1,10 +1,10 @@
-# 📰 Fake News Detection with Naive Bayes
+# Fake News Detection with Naive Bayes
 
 This project uses Natural Language Processing (NLP) and a Naive Bayes classifier to distinguish between real and fake news articles. It applies text cleaning, TF-IDF feature extraction, and model evaluation to achieve strong performance on a publicly available dataset.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset was sourced from Kaggle:  
 [Fake and Real News Dataset by Clément Bisaillon](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
